@@ -6,20 +6,7 @@ import net.volwert123.more_food.datagen.provider.MFLootTableProvider;
 import net.volwert123.more_food.datagen.provider.MFModelProvider;
 import net.volwert123.more_food.datagen.provider.MFRecipeProvider;
 import net.volwert123.more_food.datagen.provider.MFTagsProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFChineseLanguageProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFEnglishLanguageProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFFrenchLanguageProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFGermanLanguageProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFItalianLanguageProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFJapaneseLanguageProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFKoreanLanguageProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFPolishLanguageProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFPortugueseLanguageProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFRussianLanguageProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFSpanishLanguageProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFSwedishLanguageProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFTurkishLanguageProvider;
-import net.volwert123.more_food.datagen.provider.lang.MFUkrainianLanguageProvider;
+import net.volwert123.more_food.datagen.provider.lang.*;
 
 public class MFDataGenerators implements DataGeneratorEntrypoint {
     @Override
