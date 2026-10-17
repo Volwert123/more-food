@@ -34,7 +34,7 @@ public class MFFrenchLanguageProvider extends FabricLanguageProvider {
         translationBuilder.add(MFItems.APPLE_PIECES.asItem(), "Morceaux de pomme");
         translationBuilder.add(MFItems.APPLE_SOUP.asItem(), "Soupe de pomme");
         translationBuilder.add(MFItems.APPLE_BREAD.asItem(), "Pain à la pomme");
-        translationBuilder.add(MFItems.APPLE_PIE.asItem(), "Tarte à la pommes");
+        translationBuilder.add(MFItems.APPLE_PIE.asItem(), "Tarte aux pommes");
         translationBuilder.add(MFItems.CHOCOLATE_APPLE.asItem(), "Pomme en chocolat");
 
         // Kelp Items
@@ -53,7 +53,7 @@ public class MFFrenchLanguageProvider extends FabricLanguageProvider {
         translationBuilder.add(MFItems.EMERALD_POTATO.asItem(), "Pomme de terre d'émeraude");
         translationBuilder.add(MFItems.POTATO_PIECES.asItem(), "Morceaux de pomme de terre");
         translationBuilder.add(MFItems.POTATO_SOUP.asItem(), "Soupe de pommes de terre");
-        translationBuilder.add(MFItems.POTATO_BREAD.asItem(), "Pain à la pommes de terre");
+        translationBuilder.add(MFItems.POTATO_BREAD.asItem(), "Pain à la pomme de terre");
 
         // Sweet Berries Items
         translationBuilder.add(MFItems.CHOCOLATE_SWEET_BERRIES.asItem(), "Baies sucrées au chocolat");
@@ -117,7 +117,7 @@ public class MFFrenchLanguageProvider extends FabricLanguageProvider {
         translationBuilder.add(MFItems.RICE.asItem(), "Riz");
         translationBuilder.add(MFItems.RICE_CHICKEN_BOWL.asItem(), "Bol de riz au poulet");
         translationBuilder.add(MFItems.RICE_SALMON_BOWL.asItem(), "Bol de riz au saumon");
-        translationBuilder.add(MFItems.RICE_COD_BOWL.asItem(), "Bol de riz au morue");
+        translationBuilder.add(MFItems.RICE_COD_BOWL.asItem(), "Bol de riz à la morue");
         translationBuilder.add(MFItems.RICE_VEGETABLE_BOWL.asItem(), "Bol de riz aux légumes");
         translationBuilder.add(MFItems.RICE_PUDDING.asItem(), "Riz au lait");
         translationBuilder.add(MFItems.RICE_HONEY_PUDDING.asItem(), "Riz au lait et au miel");
@@ -151,11 +151,11 @@ public class MFFrenchLanguageProvider extends FabricLanguageProvider {
         translationBuilder.add(MFTags.Items.FOODS_FRUITS_MELON_SLICE, "Tranches de pastèque");
 
         // Cooked Meat Food Tags
-        translationBuilder.add(MFTags.Items.FOODS_COOKED_RABBIT, "Lapins cuit");
-        translationBuilder.add(MFTags.Items.FOODS_COOKED_CHICKEN, "Poulets cuit");
-        translationBuilder.add(MFTags.Items.FOODS_COOKED_MUTTON, "Moutons cuit");
-        translationBuilder.add(MFTags.Items.FOODS_COOKED_PORKCHOP, "Côtelettes de porc cuite");
-        translationBuilder.add(MFTags.Items.FOODS_COOKED_BEEF, "Steaks cuit");
+        translationBuilder.add(MFTags.Items.FOODS_COOKED_RABBIT, "Lapins cuits");
+        translationBuilder.add(MFTags.Items.FOODS_COOKED_CHICKEN, "Poulets cuits");
+        translationBuilder.add(MFTags.Items.FOODS_COOKED_MUTTON, "Moutons cuits");
+        translationBuilder.add(MFTags.Items.FOODS_COOKED_PORKCHOP, "Côtelettes de porc cuites");
+        translationBuilder.add(MFTags.Items.FOODS_COOKED_BEEF, "Steaks cuits");
         translationBuilder.add(MFTags.Items.FOODS_COOKED_BACON, "Bacon cuit");
 
         // Raw Meat Food Tags
@@ -163,7 +163,7 @@ public class MFFrenchLanguageProvider extends FabricLanguageProvider {
 
         // Miscellaneous Food Tags
         translationBuilder.add(MFTags.Items.FOODS_SUSHI, "Sushi");
-        translationBuilder.add(MFTags.Items.FOODS_COOKED_EGG, "Œufs cuit");
+        translationBuilder.add(MFTags.Items.FOODS_COOKED_EGG, "Œufs cuits");
 
         // Crop and Seed Tags
         translationBuilder.add(MFTags.Items.CROPS_RICE, "Riz");

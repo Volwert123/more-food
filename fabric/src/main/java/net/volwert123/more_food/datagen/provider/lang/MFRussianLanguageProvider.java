@@ -38,7 +38,7 @@ public class MFRussianLanguageProvider extends FabricLanguageProvider {
         translationBuilder.add(MFItems.CHOCOLATE_APPLE.asItem(), "Шоколадное яблоко");
 
         // Kelp Items
-        translationBuilder.add(MFItems.IRON_KELP.asItem(), "Железный ламинария");
+        translationBuilder.add(MFItems.IRON_KELP.asItem(), "Железная ламинария");
         translationBuilder.add(MFItems.GOLDEN_KELP.asItem(), "Золотистая ламинария");
         translationBuilder.add(MFItems.DIAMOND_KELP.asItem(), "Алмазная ламинария");
         translationBuilder.add(MFItems.EMERALD_KELP.asItem(), "Изумрудная ламинария");
@@ -75,7 +75,7 @@ public class MFRussianLanguageProvider extends FabricLanguageProvider {
         // Bamboo Items
         translationBuilder.add(MFItems.COOKED_BAMBOO.asItem(), "Жареный бамбук");
         translationBuilder.add(MFItems.BAMBOO_PIECES.asItem(), "Кусочки бамбука");
-        translationBuilder.add(MFItems.BAMBOO_SOUP.asItem(), "Бамбук суп");
+        translationBuilder.add(MFItems.BAMBOO_SOUP.asItem(), "Бамбуковый суп");
 
         // Melon Slice Items
         translationBuilder.add(MFItems.IRON_MELON_SLICE.asItem(), "Железный ломтик арбуза");
@@ -123,9 +123,9 @@ public class MFRussianLanguageProvider extends FabricLanguageProvider {
         translationBuilder.add(MFItems.RICE_HONEY_PUDDING.asItem(), "Рисовый медовый пудинг");
 
         // Sushi Items
-        translationBuilder.add(MFItems.SUSHI_BAMBOO.asItem(), "Суши с бамбука");
-        translationBuilder.add(MFItems.SUSHI_CARROT.asItem(), "Суши с моркови");
-        translationBuilder.add(MFItems.SUSHI_BEETROOT.asItem(), "Суши с свёклы");
+        translationBuilder.add(MFItems.SUSHI_BAMBOO.asItem(), "Суши с бамбуком");
+        translationBuilder.add(MFItems.SUSHI_CARROT.asItem(), "Суши с морковью");
+        translationBuilder.add(MFItems.SUSHI_BEETROOT.asItem(), "Суши со свёклой");
         translationBuilder.add(MFItems.SUSHI_SALMON.asItem(), "Суши с лососем");
 
         // Egg & Bacon Items
@@ -142,9 +142,9 @@ public class MFRussianLanguageProvider extends FabricLanguageProvider {
         translationBuilder.add("itemGroup.more_food.main", "More Food");
 
         // Vegetable Food Tags
-        translationBuilder.add(MFTags.Items.FOODS_VEGETABLES_CARROT, "Моркови");
+        translationBuilder.add(MFTags.Items.FOODS_VEGETABLES_CARROT, "Морковь");
         translationBuilder.add(MFTags.Items.FOODS_VEGETABLES_KELP, "Ламинарии");
-        translationBuilder.add(MFTags.Items.FOODS_VEGETABLES_POTATO, "Картофели");
+        translationBuilder.add(MFTags.Items.FOODS_VEGETABLES_POTATO, "Картофель");
 
         // Fruit Food Tags
         translationBuilder.add(MFTags.Items.FOODS_FRUITS_APPLE, "Яблоки");
